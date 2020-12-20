@@ -13,17 +13,19 @@ $ npm install or npm i
 
 ```bash
 # install dependencies from frontend
-$ cd frontend
+$ cd front
 $ npm install or npm i
 ```
 
 ```bash
 # generate .env in api
+$ cd api
 $ cp .env.example .env
 ```
 
 ```bash
 # generate .env in frontend
+$ cd front
 $ cp .env.example .env
 ```
 
@@ -38,7 +40,7 @@ $ npm start
 
 ```bash
 # running frontend
-$ cd frontend
+$ cd front
 $ npm start
 
 # access http://localhost:3000
