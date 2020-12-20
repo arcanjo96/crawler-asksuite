@@ -12,7 +12,7 @@ function Carousel({ thumbs = [] }) {
                 {thumbs.length > 0 && thumbs.map((thumb, index) => {
                     return (
                         <Slide index={index}>
-                            <img src={thumb} />
+                            <img src={thumb} alt="imagem do quarto" />
                         </Slide>
                     );
                 })}

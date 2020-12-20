@@ -1,4 +1,4 @@
-import { Button, Card, CardActionArea, CardContent, CardMedia, Typography, CardActions } from "@material-ui/core";
+import { Button, Card, CardActionArea, CardContent, Typography, CardActions } from "@material-ui/core";
 import { makeStyles } from '@material-ui/core/styles';
 import Carousel from "../Carousel";
 
