@@ -1,0 +1,18 @@
+form {
+    display: flex;
+}
+
+.checkIn, .checkOut {
+    margin: 1rem;
+}
+
+.btn-submit {
+    height: 2.5rem;
+    width: 6rem;
+}
+
+.rooms {
+    margin: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+}
